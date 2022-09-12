@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "566055985983",
+    "firebase_url": "https://monitorrideapp-default-rtdb.firebaseio.com",
+    "project_id": "monitorrideapp",
+    "storage_bucket": "monitorrideapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566055985983:android:e5ff6a512511b5a34d698a",
+        "android_client_info": {
+          "package_name": "com.monitorride.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566055985983-mtlnjf8tuen4076loj1ddsd5ncilfgae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf0rIBDcttHUaJjc70xSZTE2sSX8NNxdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566055985983-mtlnjf8tuen4076loj1ddsd5ncilfgae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
